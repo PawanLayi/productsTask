@@ -100,6 +100,8 @@ Map<String, String> messages = {
 };
 
 
+
+
 class AppSettings{
   static Map<String,dynamic> api = {
     'DASHBOARD_GET': 'https://fakestoreapi.com/products',
